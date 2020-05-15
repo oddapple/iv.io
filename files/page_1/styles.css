@@ -892,24 +892,24 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Trebuchet MS Normal', 'Trebuchet MS', sans-serif;
-  font-weight:400;
+  font-family:'Trebuchet MS Negreta', 'Trebuchet MS Normal', 'Trebuchet MS', sans-serif;
+  font-weight:700;
   font-style:normal;
-  font-size:150px;
+  font-size:110px;
   color:#8D0036;
 }
 #u23 {
   border-width:0px;
   position:absolute;
-  left:658px;
-  top:273px;
+  left:665px;
+  top:294px;
   width:756px;
   height:143px;
   display:flex;
-  font-family:'Trebuchet MS Normal', 'Trebuchet MS', sans-serif;
-  font-weight:400;
+  font-family:'Trebuchet MS Negreta', 'Trebuchet MS Normal', 'Trebuchet MS', sans-serif;
+  font-weight:700;
   font-style:normal;
-  font-size:150px;
+  font-size:110px;
   color:#8D0036;
 }
 #u23 .text {
